@@ -1,5 +1,8 @@
-
 # WhatsApp Chatbot for Instagram and YouTube Video Downloads
+
+
+- Scan the QR code above or [click here](https://wa.me/919717741778) to open a chat or add the bot to your phone's best thing list.
+
 
 ## Features
 - Download Instagram reels, posts, and IGTVs by sharing their links in WhatsApp chats.
